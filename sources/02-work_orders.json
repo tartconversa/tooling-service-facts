@@ -1,0 +1,49 @@
+{
+  "intake": 2,
+  "table": "work_orders",
+  "records": [
+    {
+      "id": "wo2",
+      "line": "west",
+      "span": [
+        106,
+        124
+      ],
+      "grade": "high",
+      "cycles": 32,
+      "base_model": "MB",
+      "jaw_models": [
+        "J7"
+      ]
+    },
+    {
+      "id": "wo3",
+      "line": "east",
+      "span": [
+        110,
+        125
+      ],
+      "grade": "high",
+      "cycles": 12,
+      "base_model": "MB",
+      "jaw_models": [
+        "J7"
+      ]
+    },
+    {
+      "id": "wo4",
+      "line": "east",
+      "span": [
+        112,
+        125
+      ],
+      "grade": "low",
+      "cycles": 18,
+      "base_model": "MB",
+      "jaw_models": [
+        "J7",
+        "J8"
+      ]
+    }
+  ]
+}

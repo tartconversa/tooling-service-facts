@@ -1,0 +1,69 @@
+{
+  "parts": {
+    "id": "text",
+    "role": "text",
+    "model": "text",
+    "design": "int",
+    "owner": "text"
+  },
+  "legs": {
+    "id": "text",
+    "line": "text",
+    "tool": "text",
+    "span": "range",
+    "base": "text",
+    "jaw": "text",
+    "grade": "text"
+  },
+  "cycle": {
+    "id": "text",
+    "line": "text",
+    "tool": "text",
+    "run": "text",
+    "span": "range",
+    "generation": "text",
+    "before": "int",
+    "after": "int",
+    "mode": "text",
+    "mirror": "text"
+  },
+  "rates": {
+    "id": "text",
+    "mode": "text",
+    "role": "text",
+    "points": "int"
+  },
+  "repairs": {
+    "id": "text",
+    "part": "text",
+    "kind": "text",
+    "restore": "int",
+    "effective": "int",
+    "configuration": "items",
+    "modes": "items"
+  },
+  "work_orders": {
+    "id": "text",
+    "line": "text",
+    "span": "range",
+    "grade": "text",
+    "cycles": "int",
+    "base_model": "text",
+    "jaw_models": "items"
+  },
+  "loans": {
+    "id": "text",
+    "order": "text",
+    "tool": "text",
+    "parts": "items",
+    "span": "range",
+    "state": "text"
+  },
+  "acks": {
+    "id": "text",
+    "loan": "text",
+    "part": "text",
+    "state": "text",
+    "at": "int"
+  }
+}

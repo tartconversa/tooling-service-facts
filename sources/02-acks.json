@@ -1,0 +1,27 @@
+{
+  "intake": 2,
+  "table": "acks",
+  "records": [
+    {
+      "id": "ack3",
+      "loan": "hand1",
+      "part": "jaw1",
+      "state": "returned",
+      "at": 98
+    },
+    {
+      "id": "ack4",
+      "loan": "hand2",
+      "part": "jaw4",
+      "state": "accepted",
+      "at": 103
+    },
+    {
+      "id": "ack5",
+      "loan": "hand2",
+      "part": "base1",
+      "state": "refused",
+      "at": 104
+    }
+  ]
+}

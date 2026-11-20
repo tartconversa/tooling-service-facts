@@ -1,0 +1,50 @@
+{
+  "intake": 2,
+  "table": "repairs",
+  "records": [
+    {
+      "id": "polish-j",
+      "part": "jaw1",
+      "kind": "restore",
+      "restore": 20,
+      "effective": 71,
+      "configuration": [
+        "base2",
+        "jaw1"
+      ],
+      "modes": [
+        "low"
+      ]
+    },
+    {
+      "id": "release-w",
+      "part": "jaw4",
+      "kind": "release",
+      "restore": 0,
+      "effective": 78,
+      "configuration": [
+        "base1",
+        "jaw4"
+      ],
+      "modes": [
+        "low",
+        "high"
+      ]
+    },
+    {
+      "id": "release-e",
+      "part": "jaw2",
+      "kind": "release",
+      "restore": 0,
+      "effective": 95,
+      "configuration": [
+        "base2",
+        "jaw2"
+      ],
+      "modes": [
+        "low",
+        "high"
+      ]
+    }
+  ]
+}

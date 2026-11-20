@@ -1,0 +1,51 @@
+{
+  "intake": 1,
+  "table": "cycle",
+  "records": [
+    {
+      "id": "west1",
+      "line": "west",
+      "tool": "kit1",
+      "run": "runA",
+      "span": [
+        10,
+        45
+      ],
+      "generation": "zero1",
+      "before": 0,
+      "after": 34,
+      "mode": "high",
+      "mirror": null
+    },
+    {
+      "id": "east1",
+      "line": "east",
+      "tool": "kit2",
+      "run": "runB",
+      "span": [
+        10,
+        50
+      ],
+      "generation": "zero1",
+      "before": 0,
+      "after": 44,
+      "mode": "high",
+      "mirror": null
+    },
+    {
+      "id": "shift1",
+      "line": "east",
+      "tool": "kit2",
+      "run": "runB",
+      "span": [
+        10,
+        50
+      ],
+      "generation": "zero1",
+      "before": 0,
+      "after": 44,
+      "mode": "high",
+      "mirror": "east1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "intake": 2,
+  "table": "cycle",
+  "records": [
+    {
+      "id": "east2",
+      "line": "east",
+      "tool": "kit2",
+      "run": "runC",
+      "span": [
+        62,
+        90
+      ],
+      "generation": "zero2",
+      "before": 0,
+      "after": 18,
+      "mode": "low",
+      "mirror": null
+    },
+    {
+      "id": "west2",
+      "line": "west",
+      "tool": "kit1",
+      "run": "runD",
+      "span": [
+        75,
+        105
+      ],
+      "generation": "zero3",
+      "before": 5,
+      "after": 21,
+      "mode": "high",
+      "mirror": null
+    }
+  ]
+}

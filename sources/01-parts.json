@@ -1,0 +1,55 @@
+{
+  "intake": 1,
+  "table": "parts",
+  "records": [
+    {
+      "id": "base1",
+      "role": "base",
+      "model": "MB",
+      "design": 450,
+      "owner": "west"
+    },
+    {
+      "id": "base2",
+      "role": "base",
+      "model": "MB",
+      "design": 480,
+      "owner": "east"
+    },
+    {
+      "id": "base3",
+      "role": "base",
+      "model": "MB",
+      "design": 500,
+      "owner": "east"
+    },
+    {
+      "id": "jaw1",
+      "role": "jaw",
+      "model": "J7",
+      "design": 210,
+      "owner": "west"
+    },
+    {
+      "id": "jaw2",
+      "role": "jaw",
+      "model": "J7",
+      "design": 240,
+      "owner": "east"
+    },
+    {
+      "id": "jaw3",
+      "role": "jaw",
+      "model": "J8",
+      "design": 200,
+      "owner": "east"
+    },
+    {
+      "id": "jaw4",
+      "role": "jaw",
+      "model": "J7",
+      "design": 190,
+      "owner": "east"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "intake": 3,
+  "table": "acks",
+  "records": [
+    {
+      "id": "ack6",
+      "loan": "hand2",
+      "part": "base1",
+      "state": "accepted",
+      "at": 110
+    }
+  ]
+}

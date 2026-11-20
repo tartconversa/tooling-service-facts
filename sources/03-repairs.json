@@ -1,0 +1,20 @@
+{
+  "intake": 3,
+  "table": "repairs",
+  "records": [
+    {
+      "id": "overfit-r",
+      "part": "jaw1",
+      "kind": "release",
+      "restore": 0,
+      "effective": 114,
+      "configuration": [
+        "base1",
+        "jaw1"
+      ],
+      "modes": [
+        "low"
+      ]
+    }
+  ]
+}

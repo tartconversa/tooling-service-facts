@@ -1,0 +1,42 @@
+{
+  "intake": 2,
+  "table": "legs",
+  "records": [
+    {
+      "id": "l5",
+      "line": "west",
+      "tool": "kit1",
+      "span": [
+        80,
+        150
+      ],
+      "base": "base1",
+      "jaw": "jaw4",
+      "grade": "high"
+    },
+    {
+      "id": "l6",
+      "line": "east",
+      "tool": "kit2",
+      "span": [
+        95,
+        150
+      ],
+      "base": "base2",
+      "jaw": "jaw2",
+      "grade": "high"
+    },
+    {
+      "id": "l7",
+      "line": "east",
+      "tool": "kit3",
+      "span": [
+        45,
+        75
+      ],
+      "base": "base3",
+      "jaw": "jaw3",
+      "grade": "low"
+    }
+  ]
+}

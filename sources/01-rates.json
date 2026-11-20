@@ -1,0 +1,30 @@
+{
+  "intake": 1,
+  "table": "rates",
+  "records": [
+    {
+      "id": "high-j",
+      "mode": "high",
+      "role": "jaw",
+      "points": 4
+    },
+    {
+      "id": "high-b",
+      "mode": "high",
+      "role": "base",
+      "points": 2
+    },
+    {
+      "id": "low-j",
+      "mode": "low",
+      "role": "jaw",
+      "points": 2
+    },
+    {
+      "id": "low-b",
+      "mode": "low",
+      "role": "base",
+      "points": 1
+    }
+  ]
+}

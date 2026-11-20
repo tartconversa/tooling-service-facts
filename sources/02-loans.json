@@ -1,0 +1,48 @@
+{
+  "intake": 2,
+  "table": "loans",
+  "records": [
+    {
+      "id": "hand2",
+      "order": "wo2",
+      "tool": "kit1",
+      "parts": [
+        "base1",
+        "jaw4"
+      ],
+      "span": [
+        102,
+        124
+      ],
+      "state": "confirmed"
+    },
+    {
+      "id": "hand3",
+      "order": "wo3",
+      "tool": "kit2",
+      "parts": [
+        "base2",
+        "jaw2"
+      ],
+      "span": [
+        105,
+        130
+      ],
+      "state": "requested"
+    },
+    {
+      "id": "hand4",
+      "order": "wo4",
+      "tool": "kit2",
+      "parts": [
+        "base2",
+        "jaw2"
+      ],
+      "span": [
+        105,
+        125
+      ],
+      "state": "requested"
+    }
+  ]
+}

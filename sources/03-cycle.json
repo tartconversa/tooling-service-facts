@@ -1,0 +1,51 @@
+{
+  "intake": 3,
+  "table": "cycle",
+  "records": [
+    {
+      "id": "east3",
+      "line": "east",
+      "tool": "kit2",
+      "run": "runC",
+      "span": [
+        49,
+        75
+      ],
+      "generation": "zero2",
+      "before": 0,
+      "after": 13,
+      "mode": "low",
+      "mirror": null
+    },
+    {
+      "id": "east4",
+      "line": "east",
+      "tool": "kit2",
+      "run": "runE",
+      "span": [
+        90,
+        102
+      ],
+      "generation": "zero3",
+      "before": 0,
+      "after": 20,
+      "mode": "high",
+      "mirror": null
+    },
+    {
+      "id": "west3",
+      "line": "west",
+      "tool": "kit1",
+      "run": "runF",
+      "span": [
+        52,
+        68
+      ],
+      "generation": "zero2",
+      "before": 0,
+      "after": 25,
+      "mode": "low",
+      "mirror": null
+    }
+  ]
+}

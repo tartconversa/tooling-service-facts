@@ -1,0 +1,20 @@
+{
+  "intake": 3,
+  "table": "work_orders",
+  "records": [
+    {
+      "id": "wo5",
+      "line": "west",
+      "span": [
+        126,
+        144
+      ],
+      "grade": "high",
+      "cycles": 23,
+      "base_model": "MB",
+      "jaw_models": [
+        "J7"
+      ]
+    }
+  ]
+}
